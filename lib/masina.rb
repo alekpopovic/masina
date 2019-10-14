@@ -1,6 +1,6 @@
-require "masina/version"
+require 'masina/version'
 
 module Masina
   class Error < StandardError; end
-  # Your code goes here...
+  class Engine < ::Rails::Engine; end
 end

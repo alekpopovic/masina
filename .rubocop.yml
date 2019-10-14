@@ -1,0 +1,7 @@
+AllCops:
+  TargetRubyVersion: 2.6
+  Exclude:
+    - "bin/*"
+
+#Style/ExpandPathArguments:
+#  Enabled: false

@@ -1,0 +1,18 @@
+# frozen_string_literal: true
+
+<%= "# #{class_name}Policy class" %>
+<%= "class #{class_name}Policy" %>
+  def initialize
+
+  end
+
+<%- methods.each do |method| -%>
+  <%= "def #{method}" %>
+  <% if methods.last == method %>
+  end
+end
+  <% else %>
+  end
+  
+  <%- end -%>
+<%- end -%>

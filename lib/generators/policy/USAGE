@@ -1,0 +1,8 @@
+Description:
+    Explain the generator
+
+Example:
+    rails generate policy post
+
+    This will create:
+        app/policies/post_policy.rb
