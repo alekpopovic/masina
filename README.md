@@ -1,5 +1,8 @@
 # Masina
 
+[![wercker status](https://app.wercker.com/status/635b247adc51981ebe5a8266d512debb/s/master "wercker status")](https://app.wercker.com/project/byKey/635b247adc51981ebe5a8266d512debb)
+[![Build Status](https://travis-ci.org/popac/masina.svg?branch=master)](https://travis-ci.org/popac/masina)
+
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/masina`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
