@@ -1,4 +1,5 @@
 require 'masina/version'
+require 'rails'
 
 module Masina
   class Error < StandardError; end
