@@ -4,6 +4,7 @@
 [![Build Status](https://travis-ci.org/popac/masina.svg?branch=master)](https://travis-ci.org/popac/masina)
 [![CodeFactor](https://www.codefactor.io/repository/github/popac/masina/badge)](https://www.codefactor.io/repository/github/popac/masina)
 [![Coverage Status](https://coveralls.io/repos/github/popac/masina/badge.svg?branch=master)](https://coveralls.io/github/popac/masina?branch=master)
+[![Gem Version](https://badge.fury.io/rb/masina.svg)](https://badge.fury.io/rb/masina)
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/masina`. To experiment with that code, run `bin/console` for an interactive prompt.
 
