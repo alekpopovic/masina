@@ -1,7 +1,7 @@
 require 'rails/generators'
 
 module Masina
-  module Generators
+  #module Generators
     #module Policy
       class PolicyGenerator < Rails::Generators::NamedBase
         source_root File.expand_path('templates', __dir__)
@@ -21,5 +21,5 @@ module Masina
         end
       end
     #end
-  end
+  #end
 end
