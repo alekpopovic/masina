@@ -2,7 +2,7 @@ require 'rails/generators'
 
 module Masina
   module Generators
-    module Policy
+    #module Policy
       class PolicyGenerator < Rails::Generators::NamedBase
         source_root File.expand_path('templates', __dir__)
         argument :methods, type: :array, default: [], banner: 'method method'
@@ -20,6 +20,6 @@ module Masina
           methods.any?
         end
       end
-    end
+    #end
   end
 end
