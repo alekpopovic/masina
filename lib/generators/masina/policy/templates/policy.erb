@@ -5,9 +5,9 @@
   def initialize
 
   end
-
+<%= "end" if methods.count == 0 %>
 <%- methods.each do |method| -%>
-  <%= "def #{method}" %>
+  <%= "def #{method}?" %>
   <% if methods.last == method %>
   end
 end
